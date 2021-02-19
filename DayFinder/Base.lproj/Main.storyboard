@@ -86,7 +86,7 @@
                                                     <constraint firstAttribute="width" relation="lessThanOrEqual" constant="200" id="HKv-ng-XKW"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numberPad" keyboardAppearance="alert"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="25" translatesAutoresizingMaskIntoConstraints="NO" id="Uhn-TI-kVB">
                                                 <rect key="frame" x="0.0" y="55" width="154" height="30"/>
@@ -97,7 +97,7 @@
                                                     <constraint firstAttribute="width" relation="lessThanOrEqual" constant="200" id="tJl-rt-xb6"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                                <textInputTraits key="textInputTraits" keyboardType="numberPad" keyboardAppearance="alert"/>
+                                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="bottom" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="25" translatesAutoresizingMaskIntoConstraints="NO" id="qfW-Yv-lOJ">
                                                 <rect key="frame" x="0.0" y="110" width="154" height="30"/>
